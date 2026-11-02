@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "raptaml" },
+  "plugins": [
+    {
+      "name": "usage-bars",
+      "source": "./usage-bars",
+      "description": "Statuszeile mit Balken für Context-Füllung, 5-Stunden- und Wochenlimit"
+    }
+  ]
+}
